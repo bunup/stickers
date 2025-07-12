@@ -16,7 +16,7 @@ Here you can find open sticker designs and other useful information
 
 The sticker designs are crafted openly in Figma. Feel free to check out, remix, or contribute:
 
-🔗 [Open Bunup Sticker Design in Figma](https://www.figma.com/file/your-figma-link-here)
+🔗 [Open Stickers Design in Figma](https://www.figma.com/design/48IKPQjUmXsxGTssDkgitM/Bunup?node-id=149-36)
 
 ## Usage & License
 
