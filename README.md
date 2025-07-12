@@ -31,3 +31,5 @@ Stay fast, stay fresh — with Bunup! ⚡
 
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 *Created with ❤️ for Bunup community*
+
+[![License: CC BY-NC 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
